@@ -3,4 +3,4 @@
 var davids = require('./davicore.js');
 var clog = console.log;
 
-console.log( davids );
+clog( davids );

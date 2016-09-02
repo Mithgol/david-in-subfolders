@@ -11,5 +11,8 @@
 "repository": {
    "type": "git",
    "url": "https://github.com/Mithgol/david-in-subfolders.git"
+},
+"scripts": {
+   "test": "jshint --verbose davids.js davicore.js"
 }
 }
