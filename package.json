@@ -1,0 +1,15 @@
+{
+"name": "davids",
+"bin": "./davids.js",
+"preferGlobal": true,
+"main": "davicore.js",
+"version": "0.0.1",
+"description": "Runs the “david” command in each of subdirectories of the current directory.",
+"keywords": ["david", "subfolder", "subfolders", "subdirectory", "subdirectories", "folder", "folders", "directory", "directories"],
+"author": { "name": "Mithgol the Webmaster" },
+"license": "MIT",
+"repository": {
+   "type": "git",
+   "url": "https://github.com/Mithgol/david-in-subfolders.git"
+}
+}
