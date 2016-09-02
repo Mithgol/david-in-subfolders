@@ -28,6 +28,8 @@ Unlike the above (`npm -g`), the application does not appear in the `PATH`, a
 
 ## Testing davids
 
+[![(build testing status)](https://img.shields.io/travis/Mithgol/david-in-subfolders/master.svg?style=plastic)](https://travis-ci.org/Mithgol/david-in-subfolders)
+
 It is necessary to install [JSHint](http://jshint.com/) for testing.
 
 * You may install JSHint globally (`npm install jshint -g`) or locally (`npm install jshint` in the directory of davids).
