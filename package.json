@@ -12,6 +12,9 @@
    "type": "git",
    "url": "https://github.com/Mithgol/david-in-subfolders.git"
 },
+"dependencies": {
+   "ciel": "~0.3.0"
+},
 "scripts": {
    "test": "jshint --verbose davids.js davicore.js"
 }
